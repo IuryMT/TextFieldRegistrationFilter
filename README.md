@@ -12,6 +12,11 @@ cd my-app
 npm start
  ``````
 
+## Installation of Ant Design
+```js
+npm install antd
+```
+
 ## Usage
 After creating your React project, copy the code and paste it in the area as a component.
 
